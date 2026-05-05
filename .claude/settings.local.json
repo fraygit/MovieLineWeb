@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Path \"C:\\\\Projects\\\\MovieLineWeb\\\\MovieLineWeb\\\\src\\\\environments\" -Force)",
+      "Bash(Out-Null)",
+      "Bash(New-Item -ItemType Directory -Path \"C:\\\\Projects\\\\MovieLineWeb\\\\MovieLineWeb\\\\src\\\\app\\\\services\" -Force)",
+      "PowerShell(New-Item *)"
+    ]
+  }
+}
